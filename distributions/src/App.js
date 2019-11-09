@@ -40,6 +40,9 @@ class App extends Component {
         scenes[region] = scenes[region] || {};
         scenes[region][item] = scenes[region][item] || 0;
         scenes[region][item] += prob / total;
+        if (scenes[region][item] > 1) {
+          scenes[region][item] = 1;
+        }
       });
     });
     console.log(scenes);
@@ -75,8 +78,8 @@ class App extends Component {
           <td>{region}</td>
           <td>{location}</td>
           <td>{biggest}</td>
-          <td>{(100 * items[biggest] / total).toPrecision(2)}%</td>
-          <td>{(100 * this.state.regionProbs[scene][biggest]).toPrecision(2)}%</td>
+          <td>{parseFloat((100 * items[biggest] / total).toPrecision(2))}%</td>
+          <td>{parseFloat((100 * this.state.regionProbs[scene][biggest]).toPrecision(2))}%</td>
         </tr>
       ];
     });
@@ -106,7 +109,7 @@ class App extends Component {
                 regionSort: event.target.checked
               }}));
         }}/> Sort by region probability
-        <table border="-" style={{borderSpacing: "0px"}}>
+        <table border="-" style={{borderSpacing: "0px", borderCollapse: "collapse"}}>
           <thead>
             <tr>
               <th>Region</th>
