@@ -1,0 +1,2914 @@
+{
+    "10 Big Poes": {
+        "region": "Castle Town Rupee Room",
+        "scene": "Castle Town Entrance"
+    },
+    "10 Gold Skulltula Reward": {
+        "region": "House of Skulltula",
+        "scene": "Kakariko Village"
+    },
+    "20 Gold Skulltula Reward": {
+        "region": "House of Skulltula",
+        "scene": "Kakariko Village"
+    },
+    "30 Gold Skulltula Reward": {
+        "region": "House of Skulltula",
+        "scene": "Kakariko Village"
+    },
+    "40 Gold Skulltula Reward": {
+        "region": "House of Skulltula",
+        "scene": "Kakariko Village"
+    },
+    "50 Gold Skulltula Reward": {
+        "region": "House of Skulltula",
+        "scene": "Kakariko Village"
+    },
+    "Adult Fishing": {
+        "region": "Fishing Hole",
+        "scene": "Lake Hylia"
+    },
+    "Adult Shooting Gallery": {
+        "region": "Kakariko Shooting Gallery",
+        "scene": "Kakariko Village"
+    },
+    "Anju as Adult": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Anjus Chickens": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Barinade": {
+        "region": "Jabu Jabus Belly Boss Area",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Barinade Heart": {
+        "region": "Jabu Jabus Belly Boss Area",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Biggoron": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Bombchu Bowling Bomb Bag": {
+        "region": "Castle Town Bombchu Bowling",
+        "scene": "Castle Town"
+    },
+    "Bombchu Bowling Bombchus": {
+        "region": "Castle Town Bombchu Bowling",
+        "scene": "Castle Town"
+    },
+    "Bombchu Bowling Piece of Heart": {
+        "region": "Castle Town Bombchu Bowling",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 1": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 2": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 3": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 4": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 5": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 6": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 7": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bombchu Shop Item 8": {
+        "region": "Castle Town Bombchu Shop",
+        "scene": "Castle Town"
+    },
+    "Bongo Bongo": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "Bongo Bongo Heart": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "Bonooru from Lake Hylia": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Boomerang Chest": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Bottom of the Well Back Left Bombable": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Basement Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Behind Right Grate": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Center Large Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Center Small Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Defeat Boss": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Freestanding Key": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Front Center Bombable": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Front Left Hidden Wall": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Invisible Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Locked Pits": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Main Area Nut Pot": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Main Area Stick Pot": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Right Bottom Hidden Wall": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Underwater Front Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Bottom of the Well Underwater Left Chest": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "Broken Sword Access from Gerudo Valley Far Side": {
+        "region": "Gerudo Valley Far Side",
+        "scene": "Gerudo Valley"
+    },
+    "Carpenter Rescue from Gerudo Fortress": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Castle Storms Grotto Gossip Stone": {
+        "region": "Castle Storms Grotto",
+        "scene": "Castle Grounds"
+    },
+    "Castle Storms Grotto Gossip Stone Fairy": {
+        "region": "Castle Storms Grotto",
+        "scene": "Castle Grounds"
+    },
+    "Castle Storms Grotto Nut Pot": {
+        "region": "Castle Storms Grotto",
+        "scene": "Castle Grounds"
+    },
+    "Castle Storms Grotto Wandering Bugs": {
+        "region": "Castle Storms Grotto",
+        "scene": "Castle Grounds"
+    },
+    "Castle Town Bazaar Item 1": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 2": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 3": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 4": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 5": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 6": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 7": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Bazaar Item 8": {
+        "region": "Castle Town Bazaar",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 1": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 2": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 3": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 4": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 5": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 6": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 7": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Castle Town Potion Shop Item 8": {
+        "region": "Castle Town Potion Shop",
+        "scene": "Castle Town"
+    },
+    "Chest Above King Dodongo": {
+        "region": "Dodongos Cavern Boss Area",
+        "scene": "Dodongos Cavern"
+    },
+    "Child Fishing": {
+        "region": "Fishing Hole",
+        "scene": "Lake Hylia"
+    },
+    "Child Shooting Gallery": {
+        "region": "Castle Town Shooting Gallery",
+        "scene": "Castle Town"
+    },
+    "Child Spirit Temple Nut Crate": {
+        "region": "Child Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Child Water Temple from Water Temple Lobby": {
+        "region": "Water Temple Lobby",
+        "scene": "Water Temple"
+    },
+    "Cojiro Access from Kakariko Village": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Colossus Freestanding PoH": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Composer Grave Chest": {
+        "region": "Composer Grave",
+        "scene": "Graveyard"
+    },
+    "Crater Fairy Reward": {
+        "region": "Crater Fairy",
+        "scene": "Death Mountain Crater"
+    },
+    "DC Deku Scrub Deku Nuts": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "DC Deku Scrub Deku Seeds": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "DC Deku Scrub Deku Shield": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "DC Deku Scrub Deku Sticks": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "DM Crater Volcano Freestanding PoH": {
+        "region": "Death Mountain Crater Central Nearby",
+        "scene": "Death Mountain Crater"
+    },
+    "DM Crater Wall Freestanding PoH": {
+        "region": "Death Mountain Crater Upper Local",
+        "scene": "Death Mountain Crater"
+    },
+    "DM Trail Freestanding PoH": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "DMC Deku Scrub Bombs": {
+        "region": "Death Mountain Crater Ladder Area Nearby",
+        "scene": "Death Mountain Crater"
+    },
+    "DMC Grotto Deku Scrub Arrows": {
+        "region": "DMC Hammer Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "DMC Grotto Deku Scrub Bombs": {
+        "region": "DMC Hammer Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "DMC Grotto Deku Scrub Deku Nuts": {
+        "region": "DMC Hammer Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "DMT Grotto Cow": {
+        "region": "Mountain Bombable Grotto",
+        "scene": "Death Mountain"
+    },
+    "Dampe Race Freestanding PoH": {
+        "region": "Dampes Grave",
+        "scene": "Graveyard"
+    },
+    "Dampes Grave Nut Pot": {
+        "region": "Dampes Grave",
+        "scene": "Graveyard"
+    },
+    "Dampes Windmill Access from Dampes Grave": {
+        "region": "Dampes Grave",
+        "scene": "Graveyard"
+    },
+    "Darunias Joy": {
+        "region": "Darunias Chamber",
+        "scene": "Goron City"
+    },
+    "Death Mountain Bean Plant Fairy": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Bombable Chest": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Crater Central Local Bean Plant Fairy": {
+        "region": "Death Mountain Crater Central Local",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Crater Central Local Subrule 1": {
+        "region": "Death Mountain Crater Central Local",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Crater Central Nearby Subrule 1": {
+        "region": "Death Mountain Crater Central Nearby",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Crater Gossip Stone": {
+        "region": "Death Mountain Crater Upper Local",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Crater Upper Local Gossip Stone Fairy": {
+        "region": "Death Mountain Crater Upper Local",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Crater Upper Nearby Subrule 1": {
+        "region": "Death Mountain Crater Upper Nearby",
+        "scene": "Death Mountain Crater"
+    },
+    "Death Mountain Subrule 1": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Subrule 2": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Summit Bug Rock": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Summit Gossip Stone Fairy": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Summit Subrule 1": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Death Mountain Trail Gossip Stone": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Deku Theater Mask of Truth": {
+        "region": "Deku Theater",
+        "scene": "Lost Woods"
+    },
+    "Deku Theater Skull Mask": {
+        "region": "Deku Theater",
+        "scene": "Lost Woods"
+    },
+    "Deku Tree Basement Chest": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Boss Room Subrule 1": {
+        "region": "Deku Tree Boss Room",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Clear from Deku Tree Boss Room": {
+        "region": "Deku Tree Boss Room",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Compass Chest": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Compass Room Side Chest": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Gossip Stone (Left)": {
+        "region": "Outside Deku Tree",
+        "scene": "Kokiri Forest"
+    },
+    "Deku Tree Gossip Stone (Right)": {
+        "region": "Outside Deku Tree",
+        "scene": "Kokiri Forest"
+    },
+    "Deku Tree Lobby Chest": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Deku Baba Nuts": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Deku Baba Sticks": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 1": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 2": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 3": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 4": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 5": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 6": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Lobby Subrule 7": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Slingshot Chest": {
+        "region": "Deku Tree Slingshot Room",
+        "scene": "Deku Tree"
+    },
+    "Deku Tree Slingshot Room Side Chest": {
+        "region": "Deku Tree Slingshot Room",
+        "scene": "Deku Tree"
+    },
+    "Deliver Ruto's Letter": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Desert Colossus Bug Rock": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Desert Colossus Fairy Pond": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Desert Colossus Fairy Reward": {
+        "region": "Colossus Fairy",
+        "scene": "Desert Colossus"
+    },
+    "Desert Colossus Gossip Stone": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Desert Colossus Gossip Stone Fairy": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Desert Colossus Subrule 1": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Desert Grotto Deku Scrub Green Potion": {
+        "region": "Desert Colossus Grotto",
+        "scene": "Desert Colossus"
+    },
+    "Desert Grotto Deku Scrub Red Potion": {
+        "region": "Desert Colossus Grotto",
+        "scene": "Desert Colossus"
+    },
+    "Diving Minigame": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Diving in the Lab": {
+        "region": "Lake Hylia Lab",
+        "scene": "Lake Hylia"
+    },
+    "Dodongos Cavern Beginning Subrule 1": {
+        "region": "Dodongos Cavern Beginning",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Bomb Bag Chest": {
+        "region": "Dodongos Cavern Far Bridge",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Bomb Flower Platform": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Boss Area Fairy Pot": {
+        "region": "Dodongos Cavern Boss Area",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Climb Subrule 1": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Climb Subrule 2": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Compass Chest": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern End of Bridge Chest": {
+        "region": "Dodongos Cavern Far Bridge",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Gossip Stone": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Lobby Gossip Stone Fairy": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Lobby Subrule 1": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "Dodongos Cavern Map Chest": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "Dog Lady": {
+        "region": "Castle Town Dog Lady",
+        "scene": "Castle Town"
+    },
+    "Drain Well from Windmill": {
+        "region": "Windmill",
+        "scene": "Kakariko Village"
+    },
+    "Epona from Lon Lon Ranch": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "Eyeball Frog Access from Zoras Domain": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Eyedrops Access from Lake Hylia Lab": {
+        "region": "Lake Hylia Lab",
+        "scene": "Lake Hylia"
+    },
+    "Field Far West Castle Town Grotto Free Fairies": {
+        "region": "Field Far West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Bug Shrub": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Butterfly Fairy": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Chest": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Gossip Stone": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Gossip Stone Fairy": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Near Lake Outside Fence Grotto Lone Fish": {
+        "region": "Field Near Lake Outside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Valley Grotto Bug Shrub": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Valley Grotto Gossip Stone": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Valley Grotto Gossip Stone Fairy": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field Valley Grotto Nut Pot": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Bug Shrub": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Butterfly Fairy": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Chest": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Gossip Stone": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Gossip Stone Fairy": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Field West Castle Town Grotto Lone Fish": {
+        "region": "Field West Castle Town Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Fire Temple Big Lava Room Bombable Chest": {
+        "region": "Fire Temple Big Lava Room",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Big Lava Room Open Chest": {
+        "region": "Fire Temple Big Lava Room",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Boss Key Chest": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Boulder Maze Bombable Pit": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Boulder Maze Lower Chest": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Boulder Maze Side Room": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Boulder Maze Upper Chest": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Chest Near Boss": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Compass Chest": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Fire Dancer Chest": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Highest Goron Chest": {
+        "region": "Fire Temple Upper",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Lower Fairy Pot": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Map Chest": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Megaton Hammer Chest": {
+        "region": "Fire Temple Upper",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Scarecrow Chest": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "Fire Temple Upper Subrule 1": {
+        "region": "Fire Temple Upper",
+        "scene": "Fire Temple"
+    },
+    "Fire Trial Clear from Ganons Castle Fire Trial": {
+        "region": "Ganons Castle Fire Trial",
+        "scene": "Ganons Castle"
+    },
+    "Forest Temple Amy and Meg from Forest Temple Falling Room": {
+        "region": "Forest Temple Falling Room",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Block Push Chest": {
+        "region": "Forest Temple Block Push Room",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Blue Poe Chest": {
+        "region": "Forest Temple Bow Region",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Boss Key Chest": {
+        "region": "Forest Temple Straightened Hall",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Bow Chest": {
+        "region": "Forest Temple Bow Region",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Chest Behind Lobby": {
+        "region": "Forest Temple Lobby",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Falling Room Chest": {
+        "region": "Forest Temple Falling Room",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Falling Room Subrule 1": {
+        "region": "Forest Temple Falling Room",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Falling Room Subrule 2": {
+        "region": "Forest Temple Falling Room",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple First Chest": {
+        "region": "Forest Temple Lobby",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Floormaster Chest": {
+        "region": "Forest Temple Outside Upper Ledge",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Jo and Beth from Forest Temple Bow Region": {
+        "region": "Forest Temple Bow Region",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Lobby Fairy Pot": {
+        "region": "Forest Temple Lobby",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Map Chest": {
+        "region": "Forest Temple Outdoors High Balconies",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple NE Outdoors Deku Baba Nuts": {
+        "region": "Forest Temple NE Outdoors",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple NE Outdoors Deku Baba Sticks": {
+        "region": "Forest Temple NE Outdoors",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple NW Outdoors Deku Baba Nuts": {
+        "region": "Forest Temple NW Outdoors",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple NW Outdoors Deku Baba Sticks": {
+        "region": "Forest Temple NW Outdoors",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Near Boss Chest": {
+        "region": "Forest Temple Boss Region",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Outside Hookshot Chest": {
+        "region": "Forest Temple NE Outdoors",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Outside Upper Ledge Subrule 1": {
+        "region": "Forest Temple Outside Upper Ledge",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Red Poe Chest": {
+        "region": "Forest Temple Bow Region",
+        "scene": "Forest Temple"
+    },
+    "Forest Temple Well Chest": {
+        "region": "Forest Temple Outdoors High Balconies",
+        "scene": "Forest Temple"
+    },
+    "Forest Trial Clear from Ganons Castle Forest Trial": {
+        "region": "Ganons Castle Forest Trial",
+        "scene": "Ganons Castle"
+    },
+    "Frog Ocarina Game": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Frogs in the Rain": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "GC Deku Scrub Arrows": {
+        "region": "Ganons Castle Deku Scrubs",
+        "scene": "Ganons Castle"
+    },
+    "GC Deku Scrub Bombs": {
+        "region": "Ganons Castle Deku Scrubs",
+        "scene": "Ganons Castle"
+    },
+    "GC Deku Scrub Green Potion": {
+        "region": "Ganons Castle Deku Scrubs",
+        "scene": "Ganons Castle"
+    },
+    "GC Deku Scrub Red Potion": {
+        "region": "Ganons Castle Deku Scrubs",
+        "scene": "Ganons Castle"
+    },
+    "GS Castle Market Guard House": {
+        "region": "Castle Town Rupee Room",
+        "scene": "Castle Town Entrance"
+    },
+    "GS Death Mountain Crater Crate": {
+        "region": "Death Mountain Crater Upper Local",
+        "scene": "Death Mountain Crater"
+    },
+    "GS Deku Tree Basement Back Room": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "GS Deku Tree Basement Gate": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "GS Deku Tree Basement Vines": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "GS Deku Tree Compass Room": {
+        "region": "Deku Tree Lobby",
+        "scene": "Deku Tree"
+    },
+    "GS Desert Colossus Bean Patch": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "GS Desert Colossus Hill": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "GS Desert Colossus Tree": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "GS Dodongo's Cavern Alcove Above Stairs": {
+        "region": "Dodongos Cavern Far Bridge",
+        "scene": "Dodongos Cavern"
+    },
+    "GS Dodongo's Cavern Back Room": {
+        "region": "Dodongos Cavern Boss Area",
+        "scene": "Dodongos Cavern"
+    },
+    "GS Dodongo's Cavern East Side Room": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "GS Dodongo's Cavern Scarecrow": {
+        "region": "Dodongos Cavern Lobby",
+        "scene": "Dodongos Cavern"
+    },
+    "GS Dodongo's Cavern Vines Above Stairs": {
+        "region": "Dodongos Cavern Climb",
+        "scene": "Dodongos Cavern"
+    },
+    "GS Fire Temple Basement": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "GS Fire Temple East Tower Climb": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "GS Fire Temple East Tower Top": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "GS Fire Temple Song of Time Room": {
+        "region": "Fire Temple Big Lava Room",
+        "scene": "Fire Temple"
+    },
+    "GS Fire Temple Unmarked Bomb Wall": {
+        "region": "Fire Temple Middle",
+        "scene": "Fire Temple"
+    },
+    "GS Forest Temple Basement": {
+        "region": "Forest Temple Boss Region",
+        "scene": "Forest Temple"
+    },
+    "GS Forest Temple First Room": {
+        "region": "Forest Temple Lobby",
+        "scene": "Forest Temple"
+    },
+    "GS Forest Temple Lobby": {
+        "region": "Forest Temple Lobby",
+        "scene": "Forest Temple"
+    },
+    "GS Forest Temple Outdoor East": {
+        "region": "Forest Temple NE Outdoors",
+        "scene": "Forest Temple"
+    },
+    "GS Forest Temple Outdoor West": {
+        "region": "Forest Temple NW Outdoors",
+        "scene": "Forest Temple"
+    },
+    "GS Gerudo Fortress Archery Range": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "GS Gerudo Fortress Top Floor": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "GS Gerudo Valley Bean Patch": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "GS Gerudo Valley Behind Tent": {
+        "region": "Gerudo Valley Far Side",
+        "scene": "Gerudo Valley"
+    },
+    "GS Gerudo Valley Pillar": {
+        "region": "Gerudo Valley Far Side",
+        "scene": "Gerudo Valley"
+    },
+    "GS Gerudo Valley Small Bridge": {
+        "region": "Gerudo Valley",
+        "scene": "Gerudo Valley"
+    },
+    "GS Goron City Boulder Maze": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "GS Goron City Center Platform": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "GS Graveyard Bean Patch": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "GS Graveyard Wall": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "GS Hyrule Castle Grotto": {
+        "region": "Castle Storms Grotto",
+        "scene": "Castle Grounds"
+    },
+    "GS Hyrule Castle Tree": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "GS Hyrule Field Near Gerudo Valley": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "GS Hyrule Field near Kakariko": {
+        "region": "Field Kakariko Grotto",
+        "scene": "Hyrule Field"
+    },
+    "GS Ice Cavern Heart Piece Room": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "GS Ice Cavern Push Block Room": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "GS Ice Cavern Spinning Scythe Room": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "GS Jabu Jabu Lobby Basement Lower": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "GS Jabu Jabu Lobby Basement Upper": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "GS Jabu Jabu Near Boss": {
+        "region": "Jabu Jabus Belly Boss Area",
+        "scene": "Jabu Jabus Belly"
+    },
+    "GS Jabu Jabu Water Switch Room": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "GS Kakariko Above Impa's House": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kakariko Guard's House": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kakariko House Under Construction": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kakariko Skulltula House": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kakariko Tree": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kakariko Watchtower": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "GS Kokiri Bean Patch": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "GS Kokiri House of Twins": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "GS Kokiri Know It All House": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "GS Lab Underwater Crate": {
+        "region": "Lake Hylia Lab",
+        "scene": "Lake Hylia"
+    },
+    "GS Lake Hylia Bean Patch": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "GS Lake Hylia Giant Tree": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "GS Lake Hylia Lab Wall": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "GS Lake Hylia Small Island": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "GS Lon Lon Ranch Back Wall": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "GS Lon Lon Ranch House Window": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "GS Lon Lon Ranch Rain Shed": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "GS Lon Lon Ranch Tree": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "GS Lost Woods Above Stage": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "GS Lost Woods Bean Patch Near Bridge": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "GS Lost Woods Bean Patch Near Stage": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "GS Mountain Crater Bean Patch": {
+        "region": "Death Mountain Crater Central Local",
+        "scene": "Death Mountain Crater"
+    },
+    "GS Mountain Trail Above Dodongo's Cavern": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "GS Mountain Trail Bean Patch": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "GS Mountain Trail Bomb Alcove": {
+        "region": "Death Mountain",
+        "scene": "Death Mountain"
+    },
+    "GS Mountain Trail Path to Crater": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "GS Outside Ganon's Castle": {
+        "region": "Ganons Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "GS Sacred Forest Meadow": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "GS Shadow Temple Crusher Room": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "GS Shadow Temple Like Like Room": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "GS Shadow Temple Near Ship": {
+        "region": "Shadow Temple Wind Tunnel",
+        "scene": "Shadow Temple"
+    },
+    "GS Shadow Temple Single Giant Pot": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "GS Shadow Temple Triple Giant Pot": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "GS Spirit Temple Bomb for Light Room": {
+        "region": "Child Spirit Temple Climb",
+        "scene": "Spirit Temple"
+    },
+    "GS Spirit Temple Boulder Room": {
+        "region": "Early Adult Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "GS Spirit Temple Hall to West Iron Knuckle": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "GS Spirit Temple Lobby": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "GS Spirit Temple Metal Fence": {
+        "region": "Child Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "GS Wasteland Ruins": {
+        "region": "Haunted Wasteland",
+        "scene": "Haunted Wasteland"
+    },
+    "GS Water Temple Central Room": {
+        "region": "Water Temple Middle Water Level",
+        "scene": "Water Temple"
+    },
+    "GS Water Temple Falling Platform Room": {
+        "region": "Water Temple Dark Link Region",
+        "scene": "Water Temple"
+    },
+    "GS Water Temple Near Boss Key Chest": {
+        "region": "Water Temple North Basement",
+        "scene": "Water Temple"
+    },
+    "GS Water Temple Serpent River": {
+        "region": "Water Temple Dark Link Region",
+        "scene": "Water Temple"
+    },
+    "GS Water Temple South Basement": {
+        "region": "Water Temple Dive",
+        "scene": "Water Temple"
+    },
+    "GS Well East Inner Room": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "GS Well Like Like Cage": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "GS Well West Inner Room": {
+        "region": "Bottom of the Well Main Area",
+        "scene": "Bottom of the Well"
+    },
+    "GS Zora River Above Bridge": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "GS Zora River Ladder": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "GS Zora River Near Raised Grottos": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "GS Zora River Tree": {
+        "region": "Zora River Front",
+        "scene": "Zora River"
+    },
+    "GS Zora's Domain Frozen Waterfall": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "GS Zora's Fountain Above the Log": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "GS Zora's Fountain Hidden Cave": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "GS Zora's Fountain Tree": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Ganon": {
+        "region": "Ganons Castle Tower",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Deku Scrubs Free Fairies": {
+        "region": "Ganons Castle Deku Scrubs",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Fairy Reward": {
+        "region": "Ganons Castle Fairy",
+        "scene": "Castle Grounds"
+    },
+    "Ganons Castle Forest Trial Chest": {
+        "region": "Ganons Castle Forest Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial First Left Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial First Right Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Invisible Enemies Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Lullaby Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Second Left Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Second Right Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Third Left Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Light Trial Third Right Chest": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Shadow Trial First Chest": {
+        "region": "Ganons Castle Shadow Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Shadow Trial Second Chest": {
+        "region": "Ganons Castle Shadow Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Spirit Trial First Chest": {
+        "region": "Ganons Castle Spirit Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Spirit Trial Nut Pot": {
+        "region": "Ganons Castle Spirit Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Spirit Trial Second Chest": {
+        "region": "Ganons Castle Spirit Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Water Trial Blue Fire": {
+        "region": "Ganons Castle Water Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Water Trial Fairy Pot": {
+        "region": "Ganons Castle Water Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Water Trial Left Chest": {
+        "region": "Ganons Castle Water Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Castle Water Trial Right Chest": {
+        "region": "Ganons Castle Water Trial",
+        "scene": "Ganons Castle"
+    },
+    "Ganons Tower Boss Key Chest": {
+        "region": "Ganons Castle Tower",
+        "scene": "Ganons Castle"
+    },
+    "Gerudo Fortress Gate Open from Gerudo Fortress": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress Gate Open from Gerudo Fortress Outside Gate": {
+        "region": "Gerudo Fortress Outside Gate",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress Membership Card": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress North F1 Carpenter": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress North F2 Carpenter": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress Rooftop Chest": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress South F1 Carpenter": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress South F2 Carpenter": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Fortress Storms Grotto Free Fairies": {
+        "region": "Gerudo Fortress Storms Grotto",
+        "scene": "Gerudo Fortress"
+    },
+    "Gerudo Training Grounds Beamos Chest": {
+        "region": "Gerudo Training Grounds Lobby",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Before Heavy Block Chest": {
+        "region": "Gerudo Training Grounds Heavy Block Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Eye Statue Chest": {
+        "region": "Gerudo Training Grounds Eye Statue Lower",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Freestanding Key": {
+        "region": "Gerudo Training Grounds Central Maze Right",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Hammer Room Clear Chest": {
+        "region": "Gerudo Training Grounds Hammer Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Hammer Room Switch Chest": {
+        "region": "Gerudo Training Grounds Hammer Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Heavy Block First Chest": {
+        "region": "Gerudo Training Grounds Like Like Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Heavy Block Fourth Chest": {
+        "region": "Gerudo Training Grounds Like Like Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Heavy Block Second Chest": {
+        "region": "Gerudo Training Grounds Like Like Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Heavy Block Third Chest": {
+        "region": "Gerudo Training Grounds Like Like Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Hidden Ceiling Chest": {
+        "region": "Gerudo Training Grounds Central Maze",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Lobby Left Chest": {
+        "region": "Gerudo Training Grounds Lobby",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Lobby Right Chest": {
+        "region": "Gerudo Training Grounds Lobby",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Lobby Subrule 1": {
+        "region": "Gerudo Training Grounds Lobby",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Path Final Chest": {
+        "region": "Gerudo Training Grounds Central Maze",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Path First Chest": {
+        "region": "Gerudo Training Grounds Central Maze",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Path Second Chest": {
+        "region": "Gerudo Training Grounds Central Maze",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Path Third Chest": {
+        "region": "Gerudo Training Grounds Central Maze",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Right Central Chest": {
+        "region": "Gerudo Training Grounds Central Maze Right",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Maze Right Side Chest": {
+        "region": "Gerudo Training Grounds Central Maze Right",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Near Scarecrow Chest": {
+        "region": "Gerudo Training Grounds Eye Statue Upper",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Stalfos Chest": {
+        "region": "Gerudo Training Grounds Lobby",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Training Grounds Underwater Silver Rupee Chest": {
+        "region": "Gerudo Training Grounds Lava Room",
+        "scene": "Gerudo Training Grounds"
+    },
+    "Gerudo Valley Bug Rock": {
+        "region": "Gerudo Valley",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Cow": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Crate Freestanding PoH": {
+        "region": "Gerudo Valley Crate Ledge",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Gossip Stone": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Hammer Rocks Chest": {
+        "region": "Gerudo Valley Far Side",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Stream Bean Plant Fairy": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Stream Gossip Stone Fairy": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "Gerudo Valley Waterfall Freestanding PoH": {
+        "region": "Gerudo Valley Stream",
+        "scene": "Gerudo Valley"
+    },
+    "Gift from Saria": {
+        "region": "Lost Woods Bridge From Forest",
+        "scene": "Lost Woods"
+    },
+    "Goron City Bug Rock": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Child Fire from Darunias Chamber": {
+        "region": "Darunias Chamber",
+        "scene": "Goron City"
+    },
+    "Goron City Child Fire from Goron City": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Gossip Stone Fairy": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Left Maze Chest": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Leftmost Maze Chest": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Maze Gossip Stone": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Medigoron Gossip Stone": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Pot Freestanding PoH": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Right Maze Chest": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Stick Pot": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Woods Warp Open from Goron City": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Goron City Woods Warp Open from Goron City Woods Warp": {
+        "region": "Goron City Woods Warp",
+        "scene": "Goron City"
+    },
+    "Goron Grotto Deku Scrub Arrows": {
+        "region": "Goron City Grotto",
+        "scene": "Goron City"
+    },
+    "Goron Grotto Deku Scrub Bombs": {
+        "region": "Goron City Grotto",
+        "scene": "Goron City"
+    },
+    "Goron Grotto Deku Scrub Deku Nuts": {
+        "region": "Goron City Grotto",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 1": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 2": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 3": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 4": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 5": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 6": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 7": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Goron Shop Item 8": {
+        "region": "Goron Shop",
+        "scene": "Goron City"
+    },
+    "Gravedigging Tour": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Bean Plant Fairy": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Bug Rock": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Butterfly Fairy": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Freestanding PoH": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Gossip Stone": {
+        "region": "Shadow Temple Warp Region",
+        "scene": "Graveyard"
+    },
+    "Graveyard Subrule 1": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "Graveyard Subrule 2": {
+        "region": "Graveyard",
+        "scene": "Graveyard"
+    },
+    "HF Grotto Cow": {
+        "region": "Field Valley Grotto",
+        "scene": "Hyrule Field"
+    },
+    "HF Grotto Deku Scrub Piece of Heart": {
+        "region": "Field Near Lake Inside Fence Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Haunted Wasteland Bombchu Salesman": {
+        "region": "Haunted Wasteland",
+        "scene": "Haunted Wasteland"
+    },
+    "Haunted Wasteland Fairy Pot": {
+        "region": "Haunted Wasteland",
+        "scene": "Haunted Wasteland"
+    },
+    "Haunted Wasteland Nut Pot": {
+        "region": "Haunted Wasteland",
+        "scene": "Haunted Wasteland"
+    },
+    "Haunted Wasteland Structure Chest": {
+        "region": "Haunted Wasteland",
+        "scene": "Haunted Wasteland"
+    },
+    "Heart Piece Grave Chest": {
+        "region": "Heart Piece Grave",
+        "scene": "Graveyard"
+    },
+    "Hookshot Chest": {
+        "region": "Dampes Grave",
+        "scene": "Graveyard"
+    },
+    "Horseback Archery 1000 Points": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Horseback Archery 1500 Points": {
+        "region": "Gerudo Fortress",
+        "scene": "Gerudo Fortress"
+    },
+    "Hyrule Castle Fairy Reward": {
+        "region": "Hyrule Castle Fairy",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Castle Grounds Bug Rock": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Castle Grounds Butterfly Fairy": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Castle Grounds Gossip Stone Fairy": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Castle Malon Gossip Stone": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Castle Rock Wall Gossip Stone": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Hyrule Field Big Poe Kill": {
+        "region": "Hyrule Field",
+        "scene": "Hyrule Field"
+    },
+    "Hyrule Field Subrule 1": {
+        "region": "Hyrule Field",
+        "scene": "Hyrule Field"
+    },
+    "Hyrule Field Subrule 2": {
+        "region": "Hyrule Field",
+        "scene": "Hyrule Field"
+    },
+    "Ice Cavern Beginning Subrule 1": {
+        "region": "Ice Cavern Beginning",
+        "scene": "Ice Cavern"
+    },
+    "Ice Cavern Blue Fire": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Ice Cavern Compass Chest": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Ice Cavern Freestanding PoH": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Ice Cavern Iron Boots Chest": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Ice Cavern Map Chest": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Impa House Freestanding PoH": {
+        "region": "Impas House Back",
+        "scene": "Kakariko Village"
+    },
+    "Impa at Castle": {
+        "region": "Hyrule Castle Garden",
+        "scene": "Castle Grounds"
+    },
+    "Impas House Cow": {
+        "region": "Impas House Near Cow",
+        "scene": "Kakariko Village"
+    },
+    "Jabu Deku Scrub Deku Nuts": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Jabu Jabus Belly Boss Area Nut Pot": {
+        "region": "Jabu Jabus Belly Boss Area",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Jabu Jabus Belly Compass Chest": {
+        "region": "Jabu Jabus Belly Depths",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Jabu Jabus Belly Main Fairy Pot": {
+        "region": "Jabu Jabus Belly Main",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Jabu Jabus Belly Map Chest": {
+        "region": "Jabu Jabus Belly Depths",
+        "scene": "Jabu Jabus Belly"
+    },
+    "Kakariko Back Grotto Bug Shrub": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Back Grotto Butterfly Fairy": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Back Grotto Chest": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Back Grotto Gossip Stone": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Back Grotto Gossip Stone Fairy": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Back Grotto Lone Fish": {
+        "region": "Kakariko Back Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 1": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 2": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 3": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 4": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 5": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 6": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 7": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Bazaar Item 8": {
+        "region": "Kakariko Bazaar",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 1": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 2": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 3": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 4": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 5": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 6": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 7": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Potion Shop Item 8": {
+        "region": "Kakariko Potion Shop Front",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Village Bug Rock": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Village Gate Open from Kakariko Village": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Kakariko Village Subrule 1": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "King Dodongo": {
+        "region": "Dodongos Cavern Boss Area",
+        "scene": "Dodongos Cavern"
+    },
+    "King Dodongo Heart": {
+        "region": "Dodongos Cavern Boss Area",
+        "scene": "Dodongos Cavern"
+    },
+    "King Zora Thawed": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Kokiri Forest Bean Plant Fairy": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Gossip Stone": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Gossip Stone Fairy": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Bug Shrub": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Butterfly Fairy": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Chest": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Gossip Stone": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Gossip Stone Fairy": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Forest Storms Grotto Lone Fish": {
+        "region": "Kokiri Forest Storms Grotto",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 1": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 2": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 3": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 4": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 5": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 6": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 7": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Shop Item 8": {
+        "region": "Kokiri Shop",
+        "scene": "Kokiri Forest"
+    },
+    "Kokiri Sword Chest": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "LH Grotto Deku Scrub Arrows": {
+        "region": "Lake Hylia Grotto",
+        "scene": "Lake Hylia"
+    },
+    "LH Grotto Deku Scrub Bombs": {
+        "region": "Lake Hylia Grotto",
+        "scene": "Lake Hylia"
+    },
+    "LH Grotto Deku Scrub Deku Nuts": {
+        "region": "Lake Hylia Grotto",
+        "scene": "Lake Hylia"
+    },
+    "LLR Grotto Deku Scrub Arrows": {
+        "region": "Lon Lon Grotto",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Grotto Deku Scrub Bombs": {
+        "region": "Lon Lon Grotto",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Grotto Deku Scrub Deku Nuts": {
+        "region": "Lon Lon Grotto",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Stables Left Cow": {
+        "region": "Ingo Barn",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Stables Right Cow": {
+        "region": "Ingo Barn",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Tower Left Cow": {
+        "region": "Lon Lon Corner Tower",
+        "scene": "Lon Lon Ranch"
+    },
+    "LLR Tower Right Cow": {
+        "region": "Lon Lon Corner Tower",
+        "scene": "Lon Lon Ranch"
+    },
+    "LW Deku Scrub Deku Nuts": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "LW Deku Scrub Deku Stick Upgrade": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "LW Deku Scrub Deku Sticks": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "LW Grotto Deku Scrub Arrows": {
+        "region": "Lost Woods Sales Grotto",
+        "scene": "Lost Woods"
+    },
+    "LW Grotto Deku Scrub Deku Nut Upgrade": {
+        "region": "Lost Woods Sales Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lake Hylia Bean Plant Fairy": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Bug Shrub": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Butterfly Fairy": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Freestanding PoH": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Gossip Stone (Southeast)": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Gossip Stone (Southwest)": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Gossip Stone Fairy": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Lab Gossip Stone": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Subrule 1": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Lake Hylia Sun": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Light Trial Clear from Ganons Castle Light Trial": {
+        "region": "Ganons Castle Light Trial",
+        "scene": "Ganons Castle"
+    },
+    "Link the Goron": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Links Cow from Lon Lon Ranch": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "Links House Cow": {
+        "region": "Links House",
+        "scene": "Root"
+    },
+    "Links Pocket": {
+        "region": "Root",
+        "scene": "Root"
+    },
+    "Lon Lon Tower Freestanding PoH": {
+        "region": "Lon Lon Corner Tower",
+        "scene": "Lon Lon Ranch"
+    },
+    "Lost Woods Bean Plant Fairy": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Beyond Mido Butterfly Fairy": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Beyond Mido Subrule 1": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Beyond Mido Subrule 2": {
+        "region": "Lost Woods Beyond Mido",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Bug Shrub": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Bug Shrub": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Butterfly Fairy": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Chest": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Gossip Stone": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Gossip Stone Fairy": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Generic Grotto Lone Fish": {
+        "region": "Lost Woods Generic Grotto",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Gossip Stone": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Gossip Stone Fairy": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Subrule 1": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Subrule 2": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Lost Woods Subrule 3": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Magic Bean Salesman": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Malon Egg": {
+        "region": "Hyrule Castle Grounds",
+        "scene": "Castle Grounds"
+    },
+    "Man on Roof": {
+        "region": "Kakariko Rooftop",
+        "scene": "Kakariko Village"
+    },
+    "Mask of Truth from Castle Town Mask Shop": {
+        "region": "Castle Town Mask Shop",
+        "scene": "Castle Town"
+    },
+    "Master Sword Pedestal": {
+        "region": "Beyond Door of Time",
+        "scene": "Root"
+    },
+    "Meadow Fairy Grotto Free Fairies": {
+        "region": "Meadow Fairy Grotto",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Mido Chest Bottom Left": {
+        "region": "Mido House",
+        "scene": "Kokiri Forest"
+    },
+    "Mido Chest Bottom Right": {
+        "region": "Mido House",
+        "scene": "Kokiri Forest"
+    },
+    "Mido Chest Top Left": {
+        "region": "Mido House",
+        "scene": "Kokiri Forest"
+    },
+    "Mido Chest Top Right": {
+        "region": "Mido House",
+        "scene": "Kokiri Forest"
+    },
+    "Mirror Shield Chest": {
+        "region": "Spirit Temple Outdoor Hands",
+        "scene": "Spirit Temple"
+    },
+    "Morpha": {
+        "region": "Water Temple Highest Water Level",
+        "scene": "Water Temple"
+    },
+    "Morpha Heart": {
+        "region": "Water Temple Highest Water Level",
+        "scene": "Water Temple"
+    },
+    "Mountain Storms Grotto Bug Shrub": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Storms Grotto Butterfly Fairy": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Storms Grotto Chest": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Storms Grotto Gossip Stone": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Storms Grotto Gossip Stone Fairy": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Storms Grotto Lone Fish": {
+        "region": "Mountain Storms Grotto",
+        "scene": "Death Mountain"
+    },
+    "Mountain Summit Fairy Reward": {
+        "region": "Mountain Summit Fairy",
+        "scene": "Death Mountain"
+    },
+    "Ocarina Memory Game": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Ocarina of Time": {
+        "region": "Hyrule Field",
+        "scene": "Hyrule Field"
+    },
+    "Odd Mushroom Access from Lost Woods": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Odd Potion Access from Odd Medicine Building": {
+        "region": "Odd Medicine Building",
+        "scene": "Kakariko Village"
+    },
+    "Outside Deku Tree Deku Baba Nuts": {
+        "region": "Outside Deku Tree",
+        "scene": "Kokiri Forest"
+    },
+    "Outside Deku Tree Deku Baba Sticks": {
+        "region": "Outside Deku Tree",
+        "scene": "Kokiri Forest"
+    },
+    "Phantom Ganon": {
+        "region": "Forest Temple Boss Region",
+        "scene": "Forest Temple"
+    },
+    "Phantom Ganon Heart": {
+        "region": "Forest Temple Boss Region",
+        "scene": "Forest Temple"
+    },
+    "Pierre": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Poachers Saw Access from Lost Woods": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Prescription Access from Death Mountain Summit": {
+        "region": "Death Mountain Summit",
+        "scene": "Death Mountain"
+    },
+    "Queen Gohma": {
+        "region": "Deku Tree Boss Room",
+        "scene": "Deku Tree"
+    },
+    "Queen Gohma Heart": {
+        "region": "Deku Tree Boss Room",
+        "scene": "Deku Tree"
+    },
+    "Redead Grotto Chest": {
+        "region": "Kakariko Bombable Grotto",
+        "scene": "Kakariko Village"
+    },
+    "Remote Southern Grotto Bug Shrub": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Remote Southern Grotto Butterfly Fairy": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Remote Southern Grotto Chest": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Remote Southern Grotto Gossip Stone": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Remote Southern Grotto Gossip Stone Fairy": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Remote Southern Grotto Lone Fish": {
+        "region": "Remote Southern Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Rolling Goron as Child": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "SFM Grotto Deku Scrub Green Potion": {
+        "region": "Meadow Storms Grotto",
+        "scene": "Sacred Forest Meadow"
+    },
+    "SFM Grotto Deku Scrub Red Potion": {
+        "region": "Meadow Storms Grotto",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sacred Forest Meadow Gossip Stone Fairy": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sacred Forest Meadow Maze Gossip Stone (Lower)": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sacred Forest Meadow Maze Gossip Stone (Upper)": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sacred Forest Meadow Saria Gossip Stone": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sell Big Poe from Castle Town Rupee Room": {
+        "region": "Castle Town Rupee Room",
+        "scene": "Castle Town Entrance"
+    },
+    "Shadow Temple After Wind Enemy Chest": {
+        "region": "Shadow Temple Wind Tunnel",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple After Wind Hidden Chest": {
+        "region": "Shadow Temple Wind Tunnel",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Beginning Nut Pot": {
+        "region": "Shadow Temple Beginning",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Boss Key Chest": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Compass Chest": {
+        "region": "Shadow Temple First Beamos",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Early Silver Rupee Chest": {
+        "region": "Shadow Temple First Beamos",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Falling Spikes Lower Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Falling Spikes Switch Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Falling Spikes Upper Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Freestanding Key": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Hidden Floormaster Chest": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Hover Boots Chest": {
+        "region": "Shadow Temple Beginning",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Invisible Blades Invisible Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Invisible Blades Visible Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Invisible Spikes Chest": {
+        "region": "Shadow Temple Huge Pit",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Map Chest": {
+        "region": "Shadow Temple Beginning",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Spike Walls Left Chest": {
+        "region": "Shadow Temple Beyond Boat",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Temple Warp Region Gossip Stone Fairy": {
+        "region": "Shadow Temple Warp Region",
+        "scene": "Graveyard"
+    },
+    "Shadow Temple Wind Hint Chest": {
+        "region": "Shadow Temple Wind Tunnel",
+        "scene": "Shadow Temple"
+    },
+    "Shadow Trial Clear from Ganons Castle Shadow Trial": {
+        "region": "Ganons Castle Shadow Trial",
+        "scene": "Ganons Castle"
+    },
+    "Sheik Forest Song": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Sheik at Colossus": {
+        "region": "Desert Colossus",
+        "scene": "Desert Colossus"
+    },
+    "Sheik at Temple": {
+        "region": "Beyond Door of Time",
+        "scene": "Root"
+    },
+    "Sheik in Crater": {
+        "region": "Death Mountain Crater Central Nearby",
+        "scene": "Death Mountain Crater"
+    },
+    "Sheik in Ice Cavern": {
+        "region": "Ice Cavern",
+        "scene": "Ice Cavern"
+    },
+    "Sheik in Kakariko": {
+        "region": "Kakariko Village",
+        "scene": "Kakariko Village"
+    },
+    "Shield Grave Chest": {
+        "region": "Shield Grave",
+        "scene": "Graveyard"
+    },
+    "Shield Grave Free Fairies": {
+        "region": "Shield Grave",
+        "scene": "Graveyard"
+    },
+    "Showed Mido Sword & Shield from Kokiri Forest": {
+        "region": "Kokiri Forest",
+        "scene": "Kokiri Forest"
+    },
+    "Silver Gauntlets Chest": {
+        "region": "Spirit Temple Outdoor Hands",
+        "scene": "Spirit Temple"
+    },
+    "Skull Kid": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Skull Mask from Castle Town Mask Shop": {
+        "region": "Castle Town Mask Shop",
+        "scene": "Castle Town"
+    },
+    "Song at Windmill": {
+        "region": "Windmill",
+        "scene": "Kakariko Village"
+    },
+    "Song from Composer Grave": {
+        "region": "Composer Grave",
+        "scene": "Graveyard"
+    },
+    "Song from Malon": {
+        "region": "Lon Lon Ranch",
+        "scene": "Lon Lon Ranch"
+    },
+    "Song from Ocarina of Time": {
+        "region": "Hyrule Field",
+        "scene": "Hyrule Field"
+    },
+    "Song from Saria": {
+        "region": "Sacred Forest Meadow",
+        "scene": "Sacred Forest Meadow"
+    },
+    "Spirit Temple Boss Key Chest": {
+        "region": "Spirit Temple Beyond Final Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Child Climb East Chest": {
+        "region": "Child Spirit Temple Climb",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Child Climb North Chest": {
+        "region": "Child Spirit Temple Climb",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Child Left Chest": {
+        "region": "Child Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Child Right Chest": {
+        "region": "Child Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Compass Chest": {
+        "region": "Early Adult Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Early Adult Right Chest": {
+        "region": "Early Adult Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple First Mirror Left Chest": {
+        "region": "Early Adult Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple First Mirror Right Chest": {
+        "region": "Early Adult Spirit Temple",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Hallway Left Invisible Chest": {
+        "region": "Spirit Temple Beyond Central Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Hallway Right Invisible Chest": {
+        "region": "Spirit Temple Beyond Central Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Map Chest": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple NE Main Room Chest": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Near Four Armos Chest": {
+        "region": "Spirit Temple Beyond Central Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Statue Hand Chest": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Sun Block Room Chest": {
+        "region": "Spirit Temple Central Chamber",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Temple Topmost Chest": {
+        "region": "Spirit Temple Beyond Final Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Spirit Trial Clear from Ganons Castle Spirit Trial": {
+        "region": "Ganons Castle Spirit Trial",
+        "scene": "Ganons Castle"
+    },
+    "Stop Link the Goron from Goron City": {
+        "region": "Goron City",
+        "scene": "Goron City"
+    },
+    "Talons Chickens": {
+        "region": "Talon House",
+        "scene": "Lon Lon Ranch"
+    },
+    "Target in Woods": {
+        "region": "Lost Woods",
+        "scene": "Lost Woods"
+    },
+    "Tektite Grotto Freestanding PoH": {
+        "region": "Field North Lon Lon Grotto",
+        "scene": "Hyrule Field"
+    },
+    "Temple of Time Exterior Gossip Stone Fairy": {
+        "region": "Temple of Time Exterior",
+        "scene": "Temple of Time Exterior"
+    },
+    "Temple of Time Gossip Stone (Left)": {
+        "region": "Temple of Time Exterior",
+        "scene": "Temple of Time Exterior"
+    },
+    "Temple of Time Gossip Stone (Left-Center)": {
+        "region": "Temple of Time Exterior",
+        "scene": "Temple of Time Exterior"
+    },
+    "Temple of Time Gossip Stone (Right)": {
+        "region": "Temple of Time Exterior",
+        "scene": "Temple of Time Exterior"
+    },
+    "Temple of Time Gossip Stone (Right-Center)": {
+        "region": "Temple of Time Exterior",
+        "scene": "Temple of Time Exterior"
+    },
+    "Top of Crater Grotto Bug Shrub": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Top of Crater Grotto Butterfly Fairy": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Top of Crater Grotto Chest": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Top of Crater Grotto Gossip Stone": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Top of Crater Grotto Gossip Stone Fairy": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Top of Crater Grotto Lone Fish": {
+        "region": "Top of Crater Grotto",
+        "scene": "Death Mountain Crater"
+    },
+    "Treasure Chest Game": {
+        "region": "Castle Town Treasure Chest Game",
+        "scene": "Castle Town"
+    },
+    "Twinrova": {
+        "region": "Spirit Temple Beyond Final Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Twinrova Heart": {
+        "region": "Spirit Temple Beyond Final Locked Door",
+        "scene": "Spirit Temple"
+    },
+    "Underwater Bottle": {
+        "region": "Lake Hylia",
+        "scene": "Lake Hylia"
+    },
+    "Valley Grotto Deku Scrub Green Potion": {
+        "region": "Gerudo Valley Storms Grotto",
+        "scene": "Gerudo Valley"
+    },
+    "Valley Grotto Deku Scrub Red Potion": {
+        "region": "Gerudo Valley Storms Grotto",
+        "scene": "Gerudo Valley"
+    },
+    "Volvagia": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Volvagia Heart": {
+        "region": "Fire Temple Lower",
+        "scene": "Fire Temple"
+    },
+    "Wake Up Adult Talon from Carpenter Boss House": {
+        "region": "Carpenter Boss House",
+        "scene": "Kakariko Village"
+    },
+    "Water Temple Boss Key Chest": {
+        "region": "Water Temple North Basement",
+        "scene": "Water Temple"
+    },
+    "Water Temple Central Bow Target Chest": {
+        "region": "Water Temple Dive",
+        "scene": "Water Temple"
+    },
+    "Water Temple Central Pillar Chest": {
+        "region": "Water Temple Middle Water Level",
+        "scene": "Water Temple"
+    },
+    "Water Temple Clear from Water Temple Highest Water Level": {
+        "region": "Water Temple Highest Water Level",
+        "scene": "Water Temple"
+    },
+    "Water Temple Compass Chest": {
+        "region": "Water Temple Dive",
+        "scene": "Water Temple"
+    },
+    "Water Temple Cracked Wall Chest": {
+        "region": "Water Temple Cracked Wall",
+        "scene": "Water Temple"
+    },
+    "Water Temple Dark Link Chest": {
+        "region": "Water Temple Dark Link Region",
+        "scene": "Water Temple"
+    },
+    "Water Temple Dark Link Region Fairy Pot": {
+        "region": "Water Temple Dark Link Region",
+        "scene": "Water Temple"
+    },
+    "Water Temple Dragon Chest": {
+        "region": "Water Temple Dragon Statue",
+        "scene": "Water Temple"
+    },
+    "Water Temple Highest Water Level Fairy Pot": {
+        "region": "Water Temple Highest Water Level",
+        "scene": "Water Temple"
+    },
+    "Water Temple Lobby Subrule 1": {
+        "region": "Water Temple Lobby",
+        "scene": "Water Temple"
+    },
+    "Water Temple Lobby Subrule 2": {
+        "region": "Water Temple Lobby",
+        "scene": "Water Temple"
+    },
+    "Water Temple Map Chest": {
+        "region": "Water Temple Dive",
+        "scene": "Water Temple"
+    },
+    "Water Temple North Basement Fairy Pot": {
+        "region": "Water Temple North Basement",
+        "scene": "Water Temple"
+    },
+    "Water Temple River Chest": {
+        "region": "Water Temple Dark Link Region",
+        "scene": "Water Temple"
+    },
+    "Water Temple Torches Chest": {
+        "region": "Water Temple Dive",
+        "scene": "Water Temple"
+    },
+    "Water Trial Clear from Ganons Castle Water Trial": {
+        "region": "Ganons Castle Water Trial",
+        "scene": "Ganons Castle"
+    },
+    "Windmill Freestanding PoH": {
+        "region": "Windmill",
+        "scene": "Kakariko Village"
+    },
+    "Wolfos Grotto Chest": {
+        "region": "Front of Meadow Grotto",
+        "scene": "Sacred Forest Meadow"
+    },
+    "ZR Grotto Deku Scrub Green Potion": {
+        "region": "Zora River Storms Grotto",
+        "scene": "Zora River"
+    },
+    "ZR Grotto Deku Scrub Red Potion": {
+        "region": "Zora River Storms Grotto",
+        "scene": "Zora River"
+    },
+    "Zelda": {
+        "region": "Temple of Time",
+        "scene": "Root"
+    },
+    "Zeldas Letter": {
+        "region": "Hyrule Castle Garden",
+        "scene": "Castle Grounds"
+    },
+    "Zora River Bean Plant Fairy": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Bug Shrub": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Butterfly Fairy": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Gossip Stone Fairy": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Lower Freestanding PoH": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Bombable Grotto Free Fairies": {
+        "region": "Zora River Plateau Bombable Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Bug Shrub": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Butterfly Fairy": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Chest": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Gossip Stone": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Gossip Stone Fairy": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Plateau Open Grotto Lone Fish": {
+        "region": "Zora River Plateau Open Grotto",
+        "scene": "Zora River"
+    },
+    "Zora River Subrule 1": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora River Upper Freestanding PoH": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zora Shop Item 1": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 2": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 3": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 4": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 5": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 6": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 7": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Shop Item 8": {
+        "region": "Zora Shop",
+        "scene": "Zoras Domain"
+    },
+    "Zora Thawed from Zoras Domain": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Fish Group": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Gossip Stone": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Gossip Stone Fairy": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Nut Pot": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Stick Pot": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Storms Grotto Free Fairies": {
+        "region": "Zoras Domain Storms Grotto",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Domain Torch Run": {
+        "region": "Zoras Domain",
+        "scene": "Zoras Domain"
+    },
+    "Zoras Fountain Bottom Freestanding PoH": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Butterfly Fairy": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Fairy Gossip Stone": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Fairy Reward": {
+        "region": "Zoras Fountain Fairy",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Gossip Stone Fairy": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Iceberg Freestanding PoH": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras Fountain Jabu Gossip Stone": {
+        "region": "Zoras Fountain",
+        "scene": "Zoras Fountain"
+    },
+    "Zoras River Plateau Gossip Stone": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    },
+    "Zoras River Waterfall Gossip Stone": {
+        "region": "Zora River",
+        "scene": "Zora River"
+    }
+}

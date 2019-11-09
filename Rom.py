@@ -28,7 +28,7 @@ class Rom(BigStream):
         if file is None:
             return
 
-        decomp_file = local_path('ZOOTDEC.z64')
+        decomp_file = local_path('ZOOTDEC.n64')
 
         os.chdir(local_path())
 

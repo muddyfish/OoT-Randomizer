@@ -85,15 +85,14 @@ def main(settings, window=dummy_window()):
     max_attempts = 1
     for attempt in range(1, max_attempts + 1):
         try:
-            spoiler = generate(settings, window)
-            break
+            return lambda: generate(settings, window)
         except ShuffleError as e:
             logger.warning('Failed attempt %d of %d: %s', attempt, max_attempts, e)
             if attempt >= max_attempts:
                 raise
             else:
                 logger.info('Retrying...\n\n')
-    return patch_and_output(settings, window, spoiler, rom, start)
+    #return patch_and_output(settings, window, spoiler, rom, start)
 
 
 def generate(settings, window):
@@ -141,22 +140,9 @@ def generate(settings, window):
     distribute_items_restrictive(window, worlds)
     window.update_progress(35)
 
-    spoiler = Spoiler(worlds)
-    if settings.create_spoiler:
-        window.update_status('Calculating Spoiler Data')
-        logger.info('Calculating playthrough.')
-        create_playthrough(spoiler)
-        window.update_progress(50)
-    if settings.create_spoiler or settings.hints != 'none':
-        window.update_status('Calculating Hint Data')
-        logger.info('Calculating hint data.')
-        State.update_required_items(spoiler)
-        for world in worlds:
-            world.update_useless_areas(spoiler)
-            buildGossipHints(spoiler, world)
-        window.update_progress(55)
-    spoiler.build_file_hash()
-    return spoiler
+    playthrough = RewindablePlaythrough([world.state for world in worlds])
+    item_locations = [location for state in playthrough.state_list for location in state.world.get_filled_locations() if location.item.advancement]
+    return item_locations
 
 
 def patch_and_output(settings, window, spoiler, rom, start):
